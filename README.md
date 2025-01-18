@@ -45,7 +45,7 @@
 <br>
 
 ## 📰 API 명세서
-- 링크 첨부
+- [Swagger 확인하기](https://www.jionly.tech/swagger-ui/index.html#/)
 
 ## Commit convention 
 - 적을까 ??
