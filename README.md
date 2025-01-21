@@ -22,12 +22,12 @@
 - 통합 개발 환경: IntelliJ
 - 프레임워크: Spring Boot (3.2.1)
 - 사용 언어: Java 17
-- 데이터베이스: MySQL, H2 (개발/테스트 환경) / AWS RDS, Redis, PostgreSql (배포 환경)
-- 배포: AWS EC2, S3, AWS LoadBalancer, Route 53
+- 데이터베이스: AWS RDS, Redis, MySQL (배포 환경)
+- 배포: AWS EC2, AWS LoadBalancer, Route 53
 - 프로젝트 빌드 관리 도구: gradle
 - ORM: JPA (Hibernate)
 - 보안: Spring Security, OAuth 2.0 (카카오 로그인)
-- CI/CD 툴: Github Actions, CodeDeploy
+- CI/CD 툴: Github Actions
 - ERD 다이어그램 툴: ERDCloud
 - API: Swagger(문서화), Postman(테스트)
 
